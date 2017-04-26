@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "load(\"data/recipe_data.RData\")\n",
+    "created" : 1493224143015.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2701684830",
+    "id" : "8714B4E6",
+    "lastKnownWriteTime" : 1493224145,
+    "last_content_update" : 1493224145503,
+    "path" : "~/R/RecipeRoamer/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
