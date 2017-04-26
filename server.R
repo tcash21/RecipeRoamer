@@ -16,6 +16,9 @@ library(shinyBS)
 library(shinyjs)
 library(scales)
 
+google_img_head <- 'https://www.google.com/search?q='
+google_img_tail <- '&safe=off&source=lnms&tbm=isch'
+
 ## flatten out the ingredients list for performance/search reasons
 flat_ingredients <-lapply(r$ingredients, function(x) paste(x, collapse=" "))
 
